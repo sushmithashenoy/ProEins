@@ -4,3 +4,6 @@ The program takes a string as a input to query with the location JSON API  and t
 The program can be run in the command line as follows :
 java -jar  GoEuroTest.jar Berlin
 Please follow the further directions are provided in the console.
+
+
+![Image of Console](C:\Users\interfaceMA\Pictures\Readme.PNG)
