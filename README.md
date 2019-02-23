@@ -6,4 +6,4 @@ java -jar  GoEuroTest.jar Berlin
 Please follow the further directions are provided in the console.
 
 
-![Image of Console](C:\Users\interfaceMA\Pictures\Readme.PNG)
+![Image of Console](https://github.com/sushmithashenoy/ProEins/blob/master/Console.PNG)
